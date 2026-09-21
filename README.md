@@ -10,6 +10,7 @@ device **joins or leaves**.
 [![python](https://img.shields.io/badge/python-3.9%2B-3776ab?logo=python&logoColor=white)](https://www.python.org/)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![size](https://img.shields.io/badge/size-1%20file-ff69b4)](lanradar.py)
+[![Telegram](https://img.shields.io/badge/Telegram-%40luyavaai-26A5E4?logo=telegram&logoColor=white)](https://t.me/luyavaai)
 
 > ⚖️ **Responsible use:** only scan networks you own or are explicitly
 > authorized to test. Unauthorized scanning is illegal in most jurisdictions.
@@ -163,6 +164,11 @@ automatically.
   sweep refreshes entries on most OSes.
 * Reverse DNS is best-effort and often missing on corporate LANs.
 * Ranges are capped at 65536 addresses per spec; CIDR up to /8 is fine.
+
+## Stay updated
+
+New releases are announced on Telegram: **[@luyavaai](https://t.me/luyavaai)** — version
+notes, upgrade advice and practical MikroTik / network notes go there first.
 
 <!-- support:start -->
 ## Support the project
